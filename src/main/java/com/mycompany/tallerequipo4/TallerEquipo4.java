@@ -10,7 +10,7 @@ import java.util.ArrayList;
 public class TallerEquipo4 {
 
     static double hx = 35000;
-    static double ds = 0.40;
+    static double ds = 0.04;
 
     static ArrayList<String> nombres = new ArrayList<>();
     static ArrayList<String> cargos = new ArrayList<>();
